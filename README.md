@@ -1,0 +1,2 @@
+# ProyectoAprendizajeAutomatico_InsuficienciaCardiaca
+Aprendizaje Automático_Predicción de supervivencia ante la insuficiencia cardíaca
