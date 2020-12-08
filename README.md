@@ -6,12 +6,12 @@ Utilizar un modelo de predicción tomamos en cuenta 5 modelos de Machine Learnin
 
 
 # Contenido y características 🛠️
-Dataset de "Insuficiencia Cardiaca"
-Entrenamiento de Datos
-Entremiento Insuficiencia Cardiaca
-Demo del Formulario
-Archivo modeloIC .sav
-Modelo de Prueba
+- Dataset de "Insuficiencia Cardiaca"
+- Entrenamiento de Datos
+- Entremiento Insuficiencia Cardiaca
+- Demo del Formulario
+- Archivo modeloIC .sav
+- Modelo de Prueba
 
 # Autores ✒️
 - Daniela Patricia Choque Forra  - dpcfjcrc@gmail.com
