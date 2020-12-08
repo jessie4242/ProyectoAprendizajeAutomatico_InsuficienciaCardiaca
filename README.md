@@ -14,8 +14,8 @@ Archivo modeloIC .sav
 Modelo de Prueba
 
 # Autores ✒️
-Daniela Patricia Choque Forra  - dpcfjcrc@gmail.com
-Jessyca Liset Mamani Mamani - jessycamamani20@gmail.com
+- Daniela Patricia Choque Forra  - dpcfjcrc@gmail.com
+- Jessyca Liset Mamani Mamani - jessycamamani20@gmail.com
 
 # Tecnologías usadas ⌨️
 La aplicación está estructurada utilizando python
